@@ -6,7 +6,7 @@ import "./styles.scss";
 const data = [
   {
     label: "HOME",
-    to: "https://nicoh91.github.io/MyPortfolio2023/"
+    to: "/"
   },
   {
     label: "ABOUT ME",

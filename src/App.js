@@ -43,7 +43,7 @@ function App() {
       <Navbar />
       <div className='App__main-page-content'>
         <Routes>
-          <Route index path='/MyPortfolio2023/' element={<Home />} />
+          <Route index path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/resume' element={<Resume />} />
           <Route path='/portfolio' element={<Portfolio />} />
