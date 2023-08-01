@@ -19,7 +19,7 @@ function App() {
     await loadFull(main);
   };
 
-  const renderParticleJsInHomePage = location.pathname === "/MyPortfolio2023";
+  const renderParticleJsInHomePage = location.pathname === "/MyPortfolio2023/";
 
   return (
     <div className="App">
